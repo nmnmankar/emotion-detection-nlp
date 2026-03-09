@@ -7,8 +7,8 @@ The model analyzes user input and predicts emotions such as **joy, sadness, ange
 
 The project also includes a **Streamlit web application** where users can enter text and get emotion predictions instantly.
 
-Model Accuracy: 88%
-Algorithm: Logistic Regression
+Model Accuracy: 88% ,
+Algorithm: Logistic Regression ,
 Vectorizer: TF-IDF
 
 ---
