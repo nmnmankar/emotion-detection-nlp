@@ -7,6 +7,10 @@ The model analyzes user input and predicts emotions such as **joy, sadness, ange
 
 The project also includes a **Streamlit web application** where users can enter text and get emotion predictions instantly.
 
+Model Accuracy: 88%
+Algorithm: Logistic Regression
+Vectorizer: TF-IDF
+
 ---
 
 ## 🚀 Technologies Used
@@ -23,7 +27,7 @@ The project also includes a **Streamlit web application** where users can enter 
 
 ## 📂 Project Structure
 
-emotion-detection
+emotion-detection-nlp
 │
 ├── app.py → Streamlit web application
 ├── model_training.py → Model training script
@@ -34,6 +38,7 @@ emotion-detection
 └── README.md → Project documentation
 
 ---
+
 
 ## ⚙️ Features
 
